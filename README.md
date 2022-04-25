@@ -1,2 +1,2 @@
 # Statistics
-Extended recording for the course statistics using python
+The extended Essential of Statistics course notes using jupyter notebooks with python and seaborn/pandas/numpy
